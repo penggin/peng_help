@@ -2,5 +2,5 @@
 
 ## Group 1
 
-* [Page 1](README.md)
-* [Page 2](group-1/page-2.md)
+* [안녕사에ㅛ](README.md)
+* [불라불라](group-1/undefined-1.md)
