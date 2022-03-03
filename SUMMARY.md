@@ -1,6 +1,10 @@
 # Table of contents
 
-## Group 1
+* [술팽봇 도움말 페이지](README.md)
+* [Quick Start](quick-start.md)
 
-* [안녕사에ㅛ](README.md)
-* [불라불라](group-1/undefined-1.md)
+## Reference
+
+* [API Reference](reference/api-reference/README.md)
+  * [Pets](reference/api-reference/pets.md)
+  * [Users](reference/api-reference/users.md)
